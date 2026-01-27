@@ -1,0 +1,150 @@
+# Rime user dictionary
+#@/db_name	nihongo-r
+#@/db_type	userdb
+#@/rime_version	1.13.1
+#@/tick	213
+#@/user_id	71310d17-cb9e-48fd-97c9-73e0aea664c1
+a 	あ	c=1 d=0.97531 t=213
+a 	ア	c=1 d=0.895834 t=213
+ai 	愛	c=1 d=0.891366 t=213
+aki 	あき	c=2 d=1.96536 t=213
+ano 	あの	c=1 d=0.923116 t=213
+are 	あれ	c=1 d=0.470011 t=213
+arisu 	アリス	c=2 d=1.33605 t=213
+ashita 	明日	c=1 d=0.657047 t=213
+bita 	びた	c=1 d=0.484325 t=213
+bokura 	僕ら	c=1 d=0.794534 t=213
+chan 	ちゃん	c=3 d=2.4681 t=213
+daigaku 	大學	c=1 d=0.458406 t=213
+date 	伊達	c=1 d=0.540641 t=213
+de 	で	c=1 d=0.501576 t=213
+do koo 	どこお	c=1 d=0.474734 t=213
+etchi 	えっち	c=1 d=1 t=213
+gari 	がり	c=1 d=0.585669 t=213
+ge 	ゲ	c=1 d=0.882497 t=213
+genjitsu 	現実	c=1 d=0.444858 t=213
+genzai 	現在	c=1 d=0.634448 t=213
+gomenasai 	ごめんあさい	c=1 d=0.449329 t=213
+goro 	頃	c=2 d=1.96546 t=213
+ha 	は	c=4 d=3.10745 t=213
+ha zu re 	ハズレ	c=9 d=6.17982 t=213
+hachi mi 	ハチみ	c=2 d=1.52891 t=213
+hachi mi nabe ru no 	ハチみなべるの	c=1 d=0.733447 t=213
+haishin 	配信	c=1 d=0.50409 t=213
+hajimaru 	始まる	c=1 d=0.704688 t=213
+hajimat ta 	始まった	c=1 d=0.615697 t=213
+hami ko 	はみこ	c=1 d=0.980199 t=213
+hana 	華	c=2 d=1.14816 t=213
+hantei 	判定	c=2 d=1.52353 t=213
+higurashi 	ひぐらし	c=2 d=1.9362 t=213
+hiru 	昼	c=1 d=0.579842 t=213
+hon dou 	ほんどう	c=1 d=0.447088 t=213
+i 	い	c=1 d=0.465334 t=213
+i 	イ	c=1 d=0.900325 t=213
+i ka 	イカ	c=1 d=0.546074 t=213
+i kataruto 	いかたると	c=1 d=0.543351 t=213
+ima sen 	いません	c=1 d=0.644036 t=213
+imasara 	いまさら	c=1 d=0.995012 t=213
+imouto 	妹	c=1 d=0.995012 t=213
+ingo 	隠語	c=1 d=0.453845 t=213
+isekai 	異世界	c=1 d=0.499074 t=213
+ishu 	異種	c=1 d=0.995012 t=213
+ja 	じゃ	c=1 d=0.865022 t=213
+ka ku yomu 	カクヨム	c=1 d=0.718924 t=213
+kaijuu 	怪獣	c=2 d=1.96062 t=213
+kame ria 	かめりあ	c=1 d=0.472367 t=213
+kamisama 	神様	c=1 d=0.99005 t=213
+kanashi uta 	悲しうた	c=1 d=0.99005 t=213
+kanojo 	彼女	c=1 d=0.511709 t=213
+kara 	から	c=3 d=1.92033 t=213
+katsudou 	活動	c=1 d=0.506617 t=213
+ko 	子	c=2 d=1.97032 t=213
+koi 	恋	c=1 d=0.860708 t=213
+koi kokoro 	恋心	c=1 d=0.600496 t=213
+komaru 	困る	c=1 d=0.83527 t=213
+komi 	コミ	c=2 d=1.24067 t=213
+koneku 	コネク	c=1 d=0.486752 t=213
+kono 	この	c=1 d=0.625002 t=213
+koro 	頃	c=1 d=0.532592 t=213
+koukai 	公開	c=1 d=0.637628 t=213
+koushiki 	公式	c=1 d=0.519442 t=213
+koyu 	こゆ	c=1 d=0.481909 t=213
+ku 	ク	c=1 d=0.763379 t=213
+kukuru 	くくる	c=2 d=1.98511 t=213
+kyuqto 	キュート	c=1 d=0.927743 t=213
+machi 	街	c=2 d=1.59309 t=213
+man ga 	マンが	c=1 d=0.715338 t=213
+mat ta 	まった	c=1 d=0.70822 t=213
+mi 	み	c=1 d=0.491644 t=213
+mide ru 	見でる	c=1 d=0.477114 t=213
+miseinen 	未成年	c=1 d=0.451581 t=213
+mono katari 	物語	c=1 d=1 t=213
+morimori 	モリモリ	c=1 d=0.904837 t=213
+muri muri 	ムリムリ	c=1 d=0.650509 t=213
+na 	名	c=1 d=0.937067 t=213
+nabe 	なべ	c=0 d=0.0729789 t=213
+nakanaide 	泣かないで	c=1 d=0.594521 t=213
+naku 	なく	c=3 d=2.45975 t=213
+nakushite mo 	なくしても	c=1 d=0.666977 t=213
+nanda yo 	何だよ	c=1 d=0.856415 t=213
+nani yo 	なによ	c=1 d=0.852144 t=213
+nare 	なれ	c=1 d=1 t=213
+natsu 	夏	c=2 d=1.03419 t=213
+ne 	ネ	c=1 d=0.873716 t=213
+ni 	に	c=6 d=5.22508 t=213
+no 	の	c=15 d=10.7004 t=213
+no 	ノ	c=4 d=2.54399 t=213
+no 	之	c=2 d=1.117 t=213
+nya a 	にゃあ	c=1 d=0.847894 t=213
+o 	お	c=1 d=0.66365 t=213
+o mase san 	おませさん	c=1 d=0.45612 t=213
+odori 	踊	c=2 d=0.878666 t=213
+ore no 	俺の	c=1 d=0.822835 t=213
+owari 	終	c=1 d=0.554327 t=213
+renai 	恋愛	c=1 d=0.516851 t=213
+roku roku roku 	六六六	c=1 d=1 t=213
+ru 	る	c=0 d=0.0729789 t=213
+sabishi hito 	寂びし人	c=1 d=0.985112 t=213
+sakuhin 	作品	c=1 d=0.628135 t=213
+sakura 	桜	c=2 d=1.13388 t=213
+sama 	さま	c=1 d=0.818731 t=213
+sannenkan 	三年間	c=1 d=0.460704 t=213
+sare te 	されて	c=1 d=0.640824 t=213
+sateraito 	サテライト	c=1 d=0.67368 t=213
+sekai 	世界	c=1 d=0.66034 t=213
+semaru 	迫る	c=1 d=0.99005 t=213
+shi 	シ	c=1 d=0.759572 t=213
+shi zuka 	シズカ	c=1 d=0.687289 t=213
+shiran 	知らん	c=10 d=8.21201 t=213
+shiranai 	知らない	c=1 d=0.755784 t=213
+shita 	下	c=1 d=0.582748 t=213
+shizuku 	雫	c=2 d=1.68729 t=213
+shokushu 	触手	c=2 d=1.91202 t=213
+sousaku 	創作	c=1 d=0.509156 t=213
+su ki 	スキ	c=1 d=0.722527 t=213
+sugite 	すぎて	c=1 d=0.831104 t=213
+suishou 	水晶	c=1 d=0.995012 t=213
+surai 	スライ	c=1 d=0.99005 t=213
+to 	と	c=1 d=0.99005 t=213
+to 	ト	c=2 d=1.36729 t=213
+tomodachi ga 	友達が	c=1 d=0.826959 t=213
+tsuki 	月	c=1 d=0.574072 t=213
+tsukuri 	作り	c=2 d=1.9802 t=213
+tsumi 	罪	c=1 d=0.985112 t=213
+tte 	って	c=1 d=0.810584 t=213
+umineko 	うみねこ	c=1 d=0.524663 t=213
+umineko 	ウミネコ	c=1 d=0.522046 t=213
+usagi 	兔	c=1 d=0.767206 t=213
+utsuri 	うつり	c=1 d=0.65377 t=213
+wata 	わた	c=1 d=0.995012 t=213
+watashi ni 	わたしに	c=1 d=0.88692 t=213
+watashi no 	私の	c=1 d=0.597501 t=213
+watashi o 	私お	c=1 d=0.806541 t=213
+ya n dere 	ヤンデレ	c=3 d=2.86923 t=213
+you na 	ような	c=1 d=1 t=213
+yu kuri 	ゆくり	c=1 d=1 t=213
+yubisaki 	指先	c=1 d=0.463013 t=213
+yume 	ゆめ	c=2 d=1.97521 t=213
+yuuhei 	幽閉	c=1 d=0.67032 t=213
+yuusha 	勇者	c=1 d=0.814647 t=213
+zako 	雑魚	c=1 d=1 t=213
