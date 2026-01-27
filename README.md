@@ -1,2 +1,2 @@
-# fontconfig
+# dotconfig
 for me only
