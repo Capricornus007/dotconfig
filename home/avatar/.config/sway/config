@@ -20,8 +20,8 @@ set $menu wmenu-run
 
 ### Output configuration
 #
-# Default wallpaper (more resolutions are available in @datadir@/backgrounds/sway/)
-output * bg @datadir@/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
+# Set a beautiful wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
+output * resolution 2240scale 2 bg /home/avatar/Pictures/eclipse.png fill
 #
 # Example configuration:
 #
