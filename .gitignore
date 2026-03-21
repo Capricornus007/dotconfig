@@ -1,0 +1,20 @@
+# 忽略大型/二進位/快取/敏感
+usr/share/fonts/
+*.ttf
+*.ttc
+*.otf
+
+# fcitx5-rime 自動生成與使用者資料
+home/avatar/.local/share/fcitx5/rime/build/
+home/avatar/.local/share/fcitx5/rime/sync/
+home/avatar/.local/share/fcitx5/rime/*.userdb/
+home/avatar/.local/share/fcitx5/rime/user.yaml   # 包含使用者狀態，可選忽略或手動管理
+home/avatar/.local/share/fcitx5/rime/installation.yaml  # 安裝資訊，可忽略
+
+# 其他常見忽略
+**/.cache/
+**/__pycache__/
+**/*.bak
+**/*.swp
+**/*.tmp
+home/avatar/.local/share/fcitx5/rime/opencc/*.ocd2  # OpenCC 二進位
