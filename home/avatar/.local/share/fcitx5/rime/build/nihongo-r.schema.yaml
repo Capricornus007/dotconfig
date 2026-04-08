@@ -2,11 +2,11 @@ __build_info:
   rime_version: 1.16.1
   timestamps:
     default: 1774018450
-    default.custom: 1769750818
+    default.custom: 1775478456
     key_bindings: 1774018450
     key_bindings.custom: 0
     "nihongo-r.custom": 0
-    "nihongo-r.schema": 1769750819
+    "nihongo-r.schema": 1775478456
     punctuation: 1774018450
     punctuation.custom: 0
 engine:

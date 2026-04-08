@@ -1,2 +1,5 @@
-Server = http://mirrors.jlu.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
+Server = https://artix.wheaton.edu/repos/$repo/os/$arch
+#Server = https://mirrors.tuna.tsinghua.edu.cn/artixlinux/$repo/os/$arch
+#Server = https://mirrors.aliyun.com/artixlinux/$repo/os/$arch
+#Server = https://mirror.nju.edu.cn/artixlinux/$repo/os/$arch
+#Server = https://mirrors.cloud.tencent.com/artixlinux/$repo/os/$arch

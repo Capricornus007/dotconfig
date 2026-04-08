@@ -1,10 +1,10 @@
 var:
-  last_build_time: 1774072920
+  last_build_time: 1775615309
   option:
     ascii_punct: false
     full_shape: false
     simplification: false
   previously_selected_schema: luna_pinyin
   schema_access_time:
-    luna_pinyin: 1774095690
-    "nihongo-r": 1774081189
+    luna_pinyin: 1775652553
+    "nihongo-r": 1775622279

@@ -1,0 +1,15 @@
+200
+1775633523989
+1775633525858
+11
+accept-ranges:bytes
+age:93394
+cache-control:max-age=31536000
+content-length:63779
+content-type:image/jpeg
+date:Wed, 08 Apr 2026 07:32:07 GMT
+expires:Sat, 03 Apr 2027 00:55:35 GMT
+last-modified:Sat, 27 Dec 2025 16:40:19 GMT
+server:nginx
+via:http/1.1 f002 (second), http/1.1 f052 (second), http/1.1 f010 (second), http/1.1 f053 (second)
+x-content-type-options:nosniff

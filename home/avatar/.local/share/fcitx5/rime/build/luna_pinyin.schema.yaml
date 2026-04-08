@@ -2,14 +2,14 @@ __build_info:
   rime_version: 1.16.1
   timestamps:
     default: 1774018450
-    default.custom: 1769750818
-    grammar: 1769750819
-    grammar.custom: 1769750819
+    default.custom: 1775478456
+    grammar: 1775478456
+    grammar.custom: 1775478456
     key_bindings: 1774018450
     key_bindings.custom: 0
-    lua_select_character: 1769750819
+    lua_select_character: 1775478456
     lua_select_character.custom: 0
-    luna_pinyin.custom: 1769750819
+    luna_pinyin.custom: 1775478456
     luna_pinyin.schema: 1774018824
     pinyin: 1774018824
     pinyin.custom: 0

@@ -1,0 +1,82 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 800,
+      "width": 1280,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 800,
+      "width": 1280,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 800,
+      "width": 1280,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABP8AAAMfAAAAAAAAAAAAAAT/AAADHwAAAAACAAAABQAAAAAAAAAAAAAABP8AAAMf"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.75,
+      "geometry_in_logical_pixels": {
+        "height": 800,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "eDP",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 800,
+        "width": 1280
+      },
+      "virtual_geometry": {
+        "height": 800,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAElAAADIPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAADIAAAAJMA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAqAD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACWAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAQ8A////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAGAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAOoA////AAAFAAAAAyAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "sepia-dark",
+    "standalone_font_settings": {
+      "minimum_font_size": 12,
+      "mono_family": "JetBrains Maple Mono",
+      "sans_family": "微信公众号：数码迷（ID：wanshuma）",
+      "serif_family": "霞鶩文楷 TC"
+    },
+    "standalone_misc_settings": {
+      "singleinstance": true
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "五示正司"
+        ],
+        "key": "/home/avatar/Documents/孤單一人的異世界攻略.epub",
+        "pathtoebook": "/home/avatar/Documents/孤單一人的異世界攻略.epub",
+        "timestamp": "2026-04-08T03:29:47.706Z",
+        "title": "孤单一人的异世界攻略 ～外挂技能已售罄～（R18）～"
+      }
+    ]
+  }
+}

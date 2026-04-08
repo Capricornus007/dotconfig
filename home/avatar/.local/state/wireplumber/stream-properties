@@ -1,0 +1,8 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false, "channelMap":["FL", "FR"]}
+Output/Audio:media.role:Notification={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false, "channelMap":[]}
+Output/Audio:application.name:Chromium={"mute":false, "channelVolumes":[1.000000, 1.000000], "volume":1.000000, "channelMap":["FL", "FR"]}
+Output/Audio:application.name:Vivaldi={"mute":false, "channelVolumes":[1.000000], "volume":1.000000, "channelMap":["MONO"]}
+Output/Audio:application.name:eSpeak={"channelMap":[], "mute":false, "channelVolumes":[1.000000, 1.000000], "volume":1.000000}
+Output/Audio:application.name:64Gram\sDesktop={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false, "channelMap":["FL", "FR"]}
+Output/Audio:application.name:kew={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false, "channelMap":["FL", "FR"]}

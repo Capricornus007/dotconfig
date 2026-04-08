@@ -30,10 +30,10 @@ declare -A actions
 #actions[lockscreen]="sh $HOME/.config/sway/swaylock.sh"
 actions[logout]="i3-msg exit, mode \"default\""
 #actions[logout]="loginctl terminate-session ${XDG_SESSION_ID-}"
-actions[suspend]="systemctl suspend"
-actions[hibernate]="systemctl hibernate"
-actions[reboot]="systemctl reboot"
-actions[shutdown]="systemctl poweroff"
+actions[suspend]="loginctl suspend"
+actions[hibernate]="loginctl hibernate"
+actions[reboot]="sudo openrc-shutdown -r 0"
+actions[shutdown]="sudo openrc-shutdown -p 0"
 
 # By default, ask for confirmation for actions that are irreversible
 confirmations=(reboot shutdown logout)

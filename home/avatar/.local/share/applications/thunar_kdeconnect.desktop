@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Thunar KDEConnect Browse
+Comment=Open Thunar for KDEConnect URI
+Exec=/home/avatar/.config/scripts/thunar_kdeconnect.sh %u
+Type=Application
+MimeType=x-scheme-handler/kdeconnect;

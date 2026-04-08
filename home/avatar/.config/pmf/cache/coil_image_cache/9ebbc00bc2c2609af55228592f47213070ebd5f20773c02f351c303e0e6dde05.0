@@ -1,0 +1,15 @@
+200
+1775637293650
+1775637293771
+11
+accept-ranges:bytes
+age:10630
+cache-control:max-age=31536000
+content-length:297112
+content-type:image/png
+date:Wed, 08 Apr 2026 08:34:55 GMT
+expires:Thu, 08 Apr 2027 05:37:45 GMT
+last-modified:Wed, 08 Apr 2026 05:35:10 GMT
+server:nginx
+via:http/1.1 f019 (second), http/1.1 f055 (second)
+x-content-type-options:nosniff

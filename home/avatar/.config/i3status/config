@@ -1,0 +1,70 @@
+general {
+    colors = true
+    interval = 5
+    color_good = "#00FF00"
+    color_degraded = "#FFFF00"
+    color_bad = "#FF0000"
+}
+
+order += "ipv6"
+order += "wireless _first_"
+order += "volume master"
+order += "battery all"
+order += "cpu_usage"
+order += "cpu_temperature 0"
+order += "memory"
+order += "tztime local"
+
+ipv6 {
+    format_up = "IPv6: 存在"
+    format_down = "IPv6: 斷開"
+}
+
+wireless _first_ {
+    format_up = "無線: %essid 質量%quality"
+    format_down = "無線: 斷開"
+}
+
+volume master {
+    format = "音量：%volume"
+    format_muted = "♪: 靜音 (%volume)"
+    device = "pulse" # 你的 i3 config 使用 pactl，建議設為 pulse
+}
+
+cpu_usage {
+    format = "CPU: %usage"
+    max_threshold = 75
+    format_above_threshold = "CPU 過載: %usage"
+}
+
+cpu_temperature 0 {
+    format = "溫度: %degrees °C"
+    path = "/sys/class/thermal/thermal_zone0/temp"
+    max_threshold = 85
+}
+
+battery all {
+    # 加入了 %remaining（剩餘時間）與 %consumption（功耗 Watts）
+    format = "%status %percentage %remaining (%consumption)"
+    format_down = "無電池"
+    status_chr = "⚡ 充電中"
+    status_bat = "🔋 使用中"
+    status_unk = "? 未知"
+    status_full = "☻ 已充滿"
+    status_idle = "☻ 閒置中"
+    # 根據手冊，設定低電量顏色閾值為 15%
+    low_threshold = 15
+    threshold_type = percentage
+    # 強制指定最後滿電容量計算，更精確反映舊電池狀況
+    last_full_capacity = true 
+}
+
+memory {
+    format = "記憶體: %used | %available"
+    threshold_degraded = "1G"
+    format_degraded = "記憶體不足: %available"
+}
+
+tztime local {
+    format = "%Y年%m月%d日 %H:%M:%S %A"
+}

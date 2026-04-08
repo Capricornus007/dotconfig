@@ -1,0 +1,19 @@
+{
+    "id": "4a167bc45b64c7d62504a122d2ba52bf",
+    "metadata": {
+        "fullname": "xrandr-Lenovo Group Limited",
+        "name": "eDP"
+    },
+    "mode": {
+        "refresh": 60.00169372558594,
+        "size": {
+            "height": 1400,
+            "width": 2240
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

@@ -131,7 +131,8 @@ mode "resize" {
     bindsym Escape mode "default"
 }
 bindsym $mod+r mode "resize"
-bindsym Print exec flameshot gui
+bindsym Print exec import png:- | xclip -selection clipboard -t image/png
+bindsym F13 exec import png:- | xclip -selection clipboard -t image/png
 
 # window border settings
 default_border none

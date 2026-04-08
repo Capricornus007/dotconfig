@@ -14,4 +14,4 @@ fi
 source ${ZIM_HOME}/init.zsh
 
 # Run fastfetch on shell initialization
-fastfetch
+fastfetch --logo none

@@ -1,0 +1,17 @@
+[Default Applications]
+x-scheme-handler/clash=sparkle.desktop
+x-scheme-handler/clash-verge=clash-verge.desktop;
+x-scheme-handler/mihomo=sparkle.desktop
+x-scheme-handler/sparkle=sparkle.desktop
+x-scheme-handler/tonsite=io.github.tdesktop_x64.TDesktop.desktop
+text/html=vivaldi-snapshot.desktop
+x-scheme-handler/http=vivaldi-snapshot.desktop
+x-scheme-handler/https=vivaldi-snapshot.desktop
+x-scheme-handler/about=vivaldi-snapshot.desktop
+x-scheme-handler/unknown=vivaldi-snapshot.desktop
+x-scheme-handler/kdeconnect=thunar_kdeconnect.desktop;
+
+[Added Associations]
+x-scheme-handler/tonsite=io.github.tdesktop_x64.TDesktop.desktop;
+x-scheme-handler/clash=clash-verge.desktop;
+x-scheme-handler/clash-verge=clash-verge.desktop;
