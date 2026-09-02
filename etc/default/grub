@@ -3,7 +3,7 @@
 GRUB_DEFAULT=saved
 GRUB_TIMEOUT=3
 GRUB_DISTRIBUTOR="Artix"
-GRUB_CMDLINE_LINUX_DEFAULT="loglevel=5 quiet nowatchdog module_blacklist=pcspkr,snd_pcsp resume=UUID=2ca7554f-a533-4f05-8ea5-58a653e7816a"
+GRUB_CMDLINE_LINUX_DEFAULT="loglevel=5 quiet nowatchdog module_blacklist=pcspkr,snd_pcsp resume=UUID=05aba9f2-34bf-476f-af5a-8ea7bb6f48c3"
 GRUB_CMDLINE_LINUX=""
 
 # Preload both GPT and MBR modules so that they are not missed

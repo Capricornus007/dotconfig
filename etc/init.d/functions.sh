@@ -1,1 +1,0 @@
-/usr/lib/openrc/sh/functions.sh
