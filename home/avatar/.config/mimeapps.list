@@ -1,17 +1,29 @@
 [Default Applications]
-x-scheme-handler/clash=sparkle.desktop
 x-scheme-handler/clash-verge=clash-verge.desktop;
-x-scheme-handler/mihomo=sparkle.desktop
-x-scheme-handler/sparkle=sparkle.desktop
 x-scheme-handler/tonsite=io.github.tdesktop_x64.TDesktop.desktop
-text/html=vivaldi-snapshot.desktop
-x-scheme-handler/http=vivaldi-snapshot.desktop
-x-scheme-handler/https=vivaldi-snapshot.desktop
-x-scheme-handler/about=vivaldi-snapshot.desktop
-x-scheme-handler/unknown=vivaldi-snapshot.desktop
+text/html=thorium-browser-avx2.desktop
+x-scheme-handler/http=thorium-browser-avx2.desktop
+x-scheme-handler/https=thorium-browser-avx2.desktop
+x-scheme-handler/about=thorium-browser-avx2.desktop
+x-scheme-handler/unknown=thorium-browser-avx2.desktop
 x-scheme-handler/kdeconnect=thunar_kdeconnect.desktop;
+x-scheme-handler/claude-cli=claude-code-url-handler.desktop
+application/pdf=calibre-ebook-viewer.desktop
+application/epub+zip=calibre-ebook-viewer.desktop
+x-scheme-handler/antigravity=antigravity.desktop
+x-scheme-handler/element=element-desktop-nightly.desktop
+x-scheme-handler/io.element.desktop=io.element.Element.desktop
+x-scheme-handler/zcode=zcode.desktop
+x-scheme-handler/qoder-cn=qoder-cn.desktop
+x-scheme-handler/io.element.nightly=element-desktop-nightly.desktop
 
 [Added Associations]
 x-scheme-handler/tonsite=io.github.tdesktop_x64.TDesktop.desktop;
 x-scheme-handler/clash=clash-verge.desktop;
 x-scheme-handler/clash-verge=clash-verge.desktop;
+application/zip=org.gnome.FileRoller.desktop;xarchiver.desktop;
+application/x-compressed-tar=xarchiver.desktop;
+application/pdf=calibre-ebook-viewer.desktop;
+application/epub+zip=calibre-ebook-viewer.desktop;
+font/ttf=userapp-gnome-font-viewer-W8JCU3.desktop;
+
